@@ -3,7 +3,7 @@ An OSINT platform that just works
 
 ## License
 
-This project is licensed under the **Ahnaf Code License v1.1 (APL-1.0)**.
+This project is licensed under the **Ahnaf Code License v1.1 (ACL-1.0)**.
 
 - ✅ You may use and modify it **for non-commercial purposes only**
 - 🏷️ You **must credit the original author**: **Ahnaf**
